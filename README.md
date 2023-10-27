@@ -28,6 +28,10 @@ __Manual testing__
   * can perform manual functional and usability testing of web applications
   * gained hands-on experience by testing applications created for educational purposes
 
+__Autmation testing__
+ * Selenium
+ * Java
+
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
   * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
@@ -80,22 +84,15 @@ __Mind maps & diagrams__
 
 ## Courses
 
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
+__Selenium Framework Test Automation, Levels 1-4__  
+*online courses by [Rahul Shetty](https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/), Udemy*  
+An intensive course in Selenium WebDriver with Java -Basics to Advanced+Frameworks.  
+[Link to the certificate of the Level 1]([https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/](https://www.udemy.com/certificate/UC-2a60d9bc-7b69-4324-be9a-05b5ea5110fe/))  
+*Completed*
 
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
-
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
-
+__QSpider,Banglore__  
+*online course by QSpider , Bengaluru, India*  
+A comprehensive course (3 months) in quality assurance, covering skills in functional testing and test automation with live projects.   
 
 ## Examples of my work
 
